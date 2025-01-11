@@ -1,6 +1,6 @@
 # Sooplive LikesBot
 
-Welcome to Sooplive LikesBot, the best solution for boosting your streaming platform likes on Sooplive.com! 
+Welcome to Sooplive LikesBot, the best solution for boosting your Likes on Sooplive.com! 
 
 ## About
 
@@ -8,8 +8,8 @@ Fame.Cheap is a powerful tool designed to help content creators and streamers in
 
 ## Features
 
-- **High-Quality LikesBots**: Our likesbot are meticulously designed to provide authentic-looking likes that mimic real user behavior, ensuring a natural and organic growth for your streams.
-  
+- **High-Quality LikesBots**: Our likesbot are meticulously designed to provide authentic-looking likes that mimic real user behavior, ensuring a natural and organic growth for your streams or videos.
+
 - **Easy to Use**: With a user-friendly interface, Fame.Cheap makes it simple for anyone to set up and start boosting their likes in no time.
 
 - **Secure and Reliable**: We prioritize the security and privacy of our users. Rest assured that your information and streaming account details are kept safe and confidential.
